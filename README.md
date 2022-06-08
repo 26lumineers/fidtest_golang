@@ -40,21 +40,21 @@ List the ready features here:
 
 ## Screenshots
 these pictures will provide body of request and body of response in one picture
-![post cash screenshot](./img/post-api-cash-cashier-200.png)
+![post-api-cash-cashier-200 screenshot](./img/post-api-cash-cashier-200.png)
 - product price accept only number and end with .25,.50,.75
-![post cash screenshot](./img/post-api-cash-cashier-r400-numberonly.png)
+![post-api-cash-cashier-r400-numberonly screenshot](./img/post-api-cash-cashier-r400-numberonly.png)
 - cash accept only number and end with .25,.50,.75
-![post cash screenshot](./img/api-cash-cashformat.png)
+![api-cash-cashformat screenshot](./img/api-cash-cashformat.png)
 - product price have to end with .25,.50,.75
 - cash also.
-![post cash screenshot](./img/post-api-cash-cashier-r400-renewProductPrice.png)
+![post-api-cash-cashier-r400-renewProductPrice screenshot](./img/post-api-cash-cashier-r400-renewProductPrice.png)
 - cash is not enough for this product
-![post cash screenshot](./img/post-api-cash-notenough.png)
+![post-api-cash-notenough screenshot](./img/post-api-cash-notenough.png)
 - cash is equal to product and don't have to get change
-![post cash screenshot](./img/api-cash-match.png)
+![api-cash-match screenshot](./img/api-cash-match.png)
 
 - find value of x,y,z
-![getvalue screenshot](./img/get-api-find-xyz.png)
+![get-api-find-xyz screenshot](./img/get-api-find-xyz.png)
 <!-- If you have screenshots you'd like to share, include them here. -->
 
 
@@ -73,8 +73,7 @@ these pictures will provide body of request and body of response in one picture
 ![FindValueInfo screenshot](./images/FindValueInfo.png)
 
 ## Dataflow
-![Dataflow](./images/cash-dataflow.html)
-![Dataflow](./images/cash-dataflow.html.pdf)
+![cash-dataflow](./images/cash-dataflow.pdf)
 
 
 ## Room for Improvement
