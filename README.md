@@ -1,8 +1,5 @@
 # fidtest_golang
 
-> Outline a brief description of your project.
-> Live demo [_here_](https://www.example.com). <!-- If you have the project hosted somewhere, include the link here. -->
-
 ## Table of Contents
 * [General Info](#general-information)
 * [Technologies Used](#technologies-used)
@@ -40,21 +37,21 @@ List the ready features here:
 
 ## Screenshots
 these pictures will provide body of request and body of response in one picture
-![post-api-cash-cashier-200 screenshot](./img/post-api-cash-cashier-200.png)
+![post-api-cash-cashier-200 screenshot](./images/post-api-cash-cashier-200.png)
 - product price accept only number and end with .25,.50,.75
-![post-api-cash-cashier-r400-numberonly screenshot](./img/post-api-cash-cashier-r400-numberonly.png)
+![post-api-cash-cashier-r400-numberonly screenshot](./images/post-api-cash-cashier-r400-numberonly.png)
 - cash accept only number and end with .25,.50,.75
-![api-cash-cashformat screenshot](./img/api-cash-cashformat.png)
+![api-cash-cashformat screenshot](./images/api-cash-cashformat.png)
 - product price have to end with .25,.50,.75
 - cash also.
-![post-api-cash-cashier-r400-renewProductPrice screenshot](./img/post-api-cash-cashier-r400-renewProductPrice.png)
+![post-api-cash-cashier-r400-renewProductPrice screenshot](./images/post-api-cash-cashier-r400-renewProductPrice.png)
 - cash is not enough for this product
-![post-api-cash-notenough screenshot](./img/post-api-cash-notenough.png)
+![post-api-cash-notenough screenshot](./images/post-api-cash-notenough.png)
 - cash is equal to product and don't have to get change
-![api-cash-match screenshot](./img/api-cash-match.png)
+![api-cash-match screenshot](./images/api-cash-match.png)
 
 - find value of x,y,z
-![get-api-find-xyz screenshot](./img/get-api-find-xyz.png)
+![get-api-find-xyz screenshot](./images/get-api-find-xyz.png)
 <!-- If you have screenshots you'd like to share, include them here. -->
 
 
